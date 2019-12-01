@@ -31,7 +31,7 @@ for (let i = 1; i <= 6; i++) {
 }
   }
 
-
+///
   public roll() {
     this.die1 = Math.floor(1 + 6 * Math.random());
     this.img1Src = AppComponent.makeImgSrc(this.die1);
