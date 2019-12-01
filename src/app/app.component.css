@@ -1,0 +1,17 @@
+h1{
+  color: purple;
+  text-align: center;
+  font-size: xx-large;
+}
+h2{
+  color: palevioletred;
+  text-align: center;
+  font-size: xx-large;
+}
+p{
+  text-align: center;
+  font-size: xx-large;
+}
+body{
+  background-color: yellow;
+}
